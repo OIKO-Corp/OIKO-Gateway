@@ -1,4 +1,4 @@
-# Gateway
+# Gateway (OIKO-Version)
 
 `MMM-GoogleAssistant` need an gateway for comunicate with plugins.<br>
 So `Gateway` will doing this job !
@@ -53,10 +53,6 @@ Gateway is a real conductor 🙂
     - ...
   * Controling MagicMirror from GoogleHome app (smartphone)
   * Controling Magicmirror from any google assistant
-
-# Installation / update / configuration
-
-Read the docs in [wiki](https://wiki.bugsounet.fr/Gateway)
 
 # Support and Helping
 New forum and support for all @bugsounet modules is now localized [there](https://forum.bugsounet.fr) !
